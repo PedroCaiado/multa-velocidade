@@ -16,7 +16,7 @@ O programa:
 
 ---
 
-## 💻 Como executar
+## Como executar
 
 1. Certifique-se de ter o **Python 3** instalado.
 2. Clone este repositório:
@@ -28,7 +28,7 @@ cd multa-velocidade
 Execute o programa:
 
 python multa_velocidade.py
-💡 Exemplo de uso
+Exemplo de uso
 Qual a velocidade do veículo? 95
 Você está 15.0Km/h acima da velocidade permitida e foi MULTADO no valor de R$105.00!
 Dirija com cuidado e tenha uma boa viagem!
@@ -36,18 +36,18 @@ Dirija com cuidado e tenha uma boa viagem!
 Qual a velocidade do veículo? 75
 Você está na velocidade permitida, parabéns!
 Dirija com cuidado e tenha uma boa viagem!
-🧰 Tecnologias utilizadas
-🐍 Python 3.10+
+ Tecnologias utilizadas
+ Python 3.10+
 
-💻 PyCharm IDE
+ PyCharm IDE
 
-🌐 Git & GitHub
+ Git & GitHub
 
-✨ Autor
+ Autor
 Desenvolvido por Pedro Caiado 💡
-📫 Contato: pedrocaiado275@gmail.com | pedrochaparin@hotmail.com |
+ Contato: pedrocaiado275@gmail.com | pedrochaparin@hotmail.com |
 
-📘 Licença
+ Licença
 Este projeto foi criado apenas para fins educacionais e de estudo.
 Sinta-se livre para usar e modificar como quiser!
 
